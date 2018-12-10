@@ -137,6 +137,10 @@ section{
 	padding: 1em;
 }
 
+section h2 img  {
+	height: 250px;
+	width: auto;
+}
 
 
 section#bar {
